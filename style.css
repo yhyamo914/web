@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Roboto&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fefaf3;
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  line-height: 1.8;
+  direction: ltr;
+}
+
+header img,
+footer img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+  background-color: transparent;
+}
+
+h1 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 48px;
+  text-align: center;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+h2 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 30px;
+  color: #444;
+  margin-top: 40px;
+}
+
+p {
+  text-align: justify;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+blockquote {
+  font-style: italic;
+  margin: 40px 0;
+  padding: 15px 30px;
+  background-color: #fff;
+  border-left: 4px solid #ccc;
+  color: #666;
+}
+
+footer {
+  text-align: center;
+  font-size: 14px;
+  color: #888;
+  margin-top: 60px;
+  padding-bottom: 40px;
+}
